@@ -1,0 +1,13 @@
+void setupWiFi();
+void readSensors();
+void checkButton();
+void checkTrashDeposit();
+void closeWindow();
+void sendDataToWeb();
+void sendDataToSerial();
+void checkCriticalAlerts();
+void checkWiFiStatus();
+float readUltrasonicSensor();
+float readBatteryLevel();
+void openWindow();
+void stepMotor();
