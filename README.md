@@ -2,7 +2,7 @@
 
 EcoSmart Container - Sistema Inteligente de Gestión de Residuos (Primera versión)
 
-Un contenedor inteligente IoT que combina hardware y software para incentivar el reciclaje responsable y optimizar la gestión de residuos. Incluye una interfaz web en React, firmware para ESP8266 y un sistema de recompensas por depósito de basura.
+Un contenedor IoT que combina hardware y software para incentivar el reciclaje responsable y optimizar la gestión de residuos. Incluye una interfaz web en React, firmware para ESP8266 y un sistema de recompensas por depósito de basura.
 
 ## 1.- Características Principales
 Monitoreo en Tiempo Real : Nivel de basura, temperatura, humedad, batería y detección de fuego
